@@ -1,7 +1,7 @@
 {
   "crons": [
     {
-      "path": "/api/send-email",
+      "path": "https://jsonplaceholder.typicode.com/todos/1",
       "schedule": "0 9 * * *"
     }
   ]
